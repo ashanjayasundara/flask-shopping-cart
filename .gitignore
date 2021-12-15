@@ -1,4 +1,4 @@
 ### VS Code ###
-.vscode/
-
+.vscode
+.idea
 _pycache__
